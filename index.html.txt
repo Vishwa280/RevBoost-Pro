@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RevBoost AI - AI-Powered Sales Optimization</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>RevBoost AI</h1>
+        <h2>AI-Powered Sales Conversion & Lead Optimization</h2>
+        <p>Boost Conversions | Automate Follow-ups | Maximize Revenue</p>
+        <a href="#demo" class="cta-button">Book a Demo</a>
+    </header>
+    
+    <section id="problem">
+        <h2>The Problem</h2>
+        <p>Sales teams struggle with:</p>
+        <ul>
+            <li>Wasting time on unqualified leads</li>
+            <li>Low conversion rates from cold outreach</li>
+            <li>Inefficient follow-ups that lead to lost deals</li>
+            <li>Difficulty integrating lead data across platforms</li>
+        </ul>
+    </section>
+    
+    <section id="solution">
+        <h2>The Solution - RevBoost AI</h2>
+        <ul>
+            <li>AI-Powered Lead Scoring</li>
+            <li>Automated Follow-Up Suggestions</li>
+            <li>Seamless CRM & Meta Integration</li>
+            <li>Real-Time Insights & Analytics</li>
+        </ul>
+    </section>
+    
+    <section id="features">
+        <h2>Key Features</h2>
+        <ul>
+            <li>AI Lead Scoring</li>
+            <li>Automated CRM Sync</li>
+            <li>Meta Business Messenger Support</li>
+            <li>Predictive Sales Analytics</li>
+            <li>Scalable & Secure</li>
+        </ul>
+    </section>
+    
+    <section id="how-it-works">
+        <h2>How It Works</h2>
+        <ol>
+            <li>Extract lead data from Meta, CRM, and email conversations</li>
+            <li>AI analyzes conversations and scores lead potential (1-100)</li>
+            <li>AI recommends follow-up actions</li>
+            <li>Leads & insights sync back to CRM for real-time tracking</li>
+        </ol>
+    </section>
+    
+    <section id="pricing">
+        <h2>Pricing & ROI</h2>
+        <p>Enterprise Plan: <strong>$10,000+ per year</strong></p>
+        <p>✔️ Increase Conversions by 30%+<br>✔️ Save 50% of sales time<br>✔️ AI automation for maximum revenue</p>
+    </section>
+    
+    <section id="cta">
+        <h2>Ready to Skyrocket Your Sales?</h2>
+        <p>Book a demo today and transform your sales process with AI-driven automation!</p>
+        <a href="#contact" class="cta-button">Book a Demo</a>
+    </section>
+    
+    <footer>
+        <p>Contact us at <a href="mailto:sales@revboostai.com">sales@revboostai.com</a></p>
+    </footer>
+</body>
+</html>
